@@ -1,9 +1,8 @@
 # stableshell
 fix your shell automatically like ssh shell support :)
 
-usage :
-#default port : 9090\n
-bash stableshell.sh
+usage 
+bash stableshell.sh #default port : 9090
 
-#costumeport\n
-bash stableshell.sh <your port>
+
+bash stableshell.sh <your port> #costumeport
